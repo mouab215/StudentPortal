@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+
+    <string name="add_activity_titleBar">Create a Portal</string>
+    <string name="add_activity_title">Title</string>
+    <string name="add_activity_url">Url</string>
+    <string name="btn_add_activity">Add Portal</string>
+
+    <string name="empty_field_error_title">The title has to be filled in!</string>
+    <string name="empty_field_error_url">The URL has to be filled in!</string>
+</resources>
